@@ -1,6 +1,6 @@
 # projectsh-django
 <p align="center">
-![alt text](https://github.com/aleoreina/projectsh-django/blob/master/screenshots/screen_1.png)
+<img src="https://github.com/aleoreina/projectsh-django/blob/master/screenshots/screen_1.png" />
 </p>
 
 Bash file which you could run commands of django in more easy way. doing migrations to database all of models, updates of all packages json (nodejs) and packages python of project in more easy way.
